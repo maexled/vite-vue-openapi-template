@@ -1,0 +1,30 @@
+{
+  "todos": {
+    "title": "Aufgaben",
+    "add": "Aufgabe hinzufügen",
+    "addNew": "Neue Aufgabe hinzufügen",
+    "titleField": "Titel",
+    "descriptionField": "Beschreibung",
+    "save": "Speichern",
+    "completed": "Erledigt",
+    "incomplete": "Offen",
+    "noTodos": "Noch keine Aufgaben.",
+    "createdSuccess": "Aufgabe erfolgreich erstellt!",
+    "createdError": "Aufgabe konnte nicht erstellt werden."
+  },
+  "common": {
+    "cancel": "Abbrechen",
+    "close": "Schließen"
+  },
+  "navbar": {
+    "home": "Startseite",
+    "newTodo": "Neue Aufgabe",
+    "switchToDark": "In den Dunkelmodus wechseln",
+    "switchToLight": "In den Lichtmodus wechseln"
+  },
+  "language": {
+    "switchLanguage": "Sprache wechseln",
+    "english": "Englisch",
+    "german": "Deutsch"
+  }
+}

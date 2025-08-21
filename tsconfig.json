@@ -1,0 +1,27 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.worker.json"
+    }
+  ],
+  "compilerOptions": {
+    "target": "es2022", // modern async/await + top-level await
+    "module": "esnext", // ensures ESM output for Workers
+    "moduleResolution": "bundler", // Vite + Workers use bundler-style resolution
+    "lib": ["es2022", "webworker"], // include DOM + Worker APIs
+    "isolatedModules": true, // required for Vite
+    "allowJs": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "types": ["./worker-configuration.d.ts"]
+  }
+}

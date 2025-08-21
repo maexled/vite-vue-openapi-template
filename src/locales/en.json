@@ -1,0 +1,30 @@
+{
+  "todos": {
+    "title": "Todos",
+    "add": "Add Todo",
+    "addNew": "Add New Todo",
+    "titleField": "Title",
+    "descriptionField": "Description",
+    "save": "Save",
+    "completed": "Completed",
+    "incomplete": "Incomplete",
+    "noTodos": "No todos yet.",
+    "createdSuccess": "Todo created successfully!",
+    "createdError": "Failed to create todo."
+  },
+  "common": {
+    "cancel": "Cancel",
+    "close": "Close"
+  },
+  "navbar": {
+    "home": "Home",
+    "newTodo": "New Todo",
+    "switchToDark": "Switch to dark mode",
+    "switchToLight": "Switch to light mode"
+  },
+  "language": {
+    "switchLanguage": "Switch language",
+    "english": "English",
+    "german": "German"
+  }
+}
