@@ -40,7 +40,7 @@
   "devDependencies": {
     "@cloudflare/vite-plugin": "^1.11.2",
     "@cloudflare/vitest-pool-workers": "^0.8.66",
-    "@hey-api/openapi-ts": "0.80.10",
+    "@hey-api/openapi-ts": "^0.81.0",
     "@tsconfig/node22": "^22.0.2",
     "@types/node": "^22.16.5",
     "@vitejs/plugin-vue": "^6.0.1",
